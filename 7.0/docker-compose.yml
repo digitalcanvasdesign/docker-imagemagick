@@ -1,0 +1,6 @@
+version: "2"
+
+services:
+  magick:
+    image: digitalcanvasdesign/imagemagick
+    build: ./
